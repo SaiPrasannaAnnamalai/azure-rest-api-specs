@@ -1197,6 +1197,18 @@
             "impactType": {
               "type": "string",
               "description": "The type of the impact"
+            },
+            "maintenanceId": {
+              "type": "string",
+              "description": "Maintenance Id"
+            },
+            "maintenanceType": {
+              "type": "string",
+              "description": "Maintenance Type"
+            },
+            "argQuery": {
+              "type": "string",
+              "description": "ARG Query"
             }
           }
         }
